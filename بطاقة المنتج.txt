@@ -1,0 +1,22 @@
+<!-- بداية المنتج  -->
+<div class="card">
+<h4 class="shirt_text">المنتج الاول</h4>
+<div class="image">
+<img src="images/1.jpg">
+</div>
+<div class="info" dir="rtl">
+<span style="font-size: 21px; color:green">2900 دج</span>
+</div>
+<div class="description">
+</div>
+<div class="btn_main">
+<button class="btn-order" onclick="orderNow(
+'المنتج الاول',
+'2900',
+'',
+'images/1.jpg')">
+<i class="animation"></i>أطلب الآن<i class="animation"></i>
+</button>
+</div>
+</div>
+<!-- نهاية المنتج  -->
